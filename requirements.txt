@@ -1,0 +1,9 @@
+pandas>=2.0.0
+numpy>=1.26.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+statsmodels>=0.14.0
+# 若有tensorflow需求可添加
+# tensorflow>=2.10.0
+# 若有streamlit需求可添加
+# streamlit>=1.20.0
